@@ -1,0 +1,9 @@
+body {
+  color: navy;
+  font-family: sans-serif;
+}
+
+image {
+  display: block;
+  size: 200px 200px;
+}
